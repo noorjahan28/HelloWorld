@@ -1,0 +1,26 @@
+.EventListners{
+    color: brown;
+    margin: 40px 20% 10px 20%; 
+    justify-content: center;
+    align-items: center;
+}
+.EventListnersContent{
+    border:  5px solid rgb(220, 45, 45);
+    padding: 5%;
+    padding-right: 32%;
+    padding-left: 32%;
+    font-size: large;
+    
+}
+.page{
+    display: flex;
+    justify-content: space-between;
+
+}
+label{
+    margin-right: 40px;
+    text-align: center;
+}
+#submitButton{
+    margin-top: 40px;
+}
